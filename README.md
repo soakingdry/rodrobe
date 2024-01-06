@@ -80,3 +80,4 @@ $ python3 main.py
    - Proxy support
    - Make uploader & holder accounts global instead of initializing them repeatedly
    - Script to clear cache
+   - Switch to async and refactor alot of code
